@@ -106,6 +106,8 @@ Login → QR Setup (2FA) → TOTP Verification → GHL Email → OTP Display
 
 Both `Backend/vercel.json` and `Frontend/vercel.json` are configured for Vercel deployment. Each directory can be deployed independently as a Vercel project.
 
+**Live app:** [otpsharingapp.vercel.app](https://otpsharingapp.vercel.app/)
+
 ## License
 
 MIT
